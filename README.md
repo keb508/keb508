@@ -1,6 +1,6 @@
 ### Hi there, I'm Katie 👋
 
-- 🔭 I’m currently working on Leeds Trinity University Reboot Project.
-- 🌱 I’m currently learning web development.
+- 🔭 I’m currently teaching myself JavaScript and Python.
+- 🌱 I’m currently working my way through Project Euler in both languages.
 - 😄 Pronouns: She/Her
 
